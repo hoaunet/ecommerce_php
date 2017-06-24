@@ -1,14 +1,15 @@
 <?php
 // Heading
-$_['heading_title']      = 'Options';
+$_['heading_title']      = 'Tùy chọn';
 
 // Text
-$_['text_success']       = 'Success: You have modified options!';
-$_['text_list']          = 'Option List';
-$_['text_add']           = 'Add Option';
-$_['text_edit']          = 'Edit Option';
-$_['text_choose']        = 'Choose';
-$_['text_select']        = 'Select';
+$_['text_home']			 = 'Trang chủ';
+$_['text_success']       = 'Thành công: Tùy chọn đã được thay đổi!';
+$_['text_list']          = 'Danh sách các tùy chọn';
+$_['text_add']           = 'Thêm mục tùy chọn';
+$_['text_edit']          = 'Chỉnh sửa tùy chọn';
+$_['text_choose']        = 'Chọn';
+$_['text_select']        = 'Chọn';
 $_['text_radio']         = 'Radio';
 $_['text_checkbox']      = 'Checkbox';
 $_['text_input']         = 'Input';

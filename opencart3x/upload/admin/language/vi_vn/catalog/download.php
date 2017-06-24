@@ -1,10 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Downloads';
+$_['heading_title']     = 'Dữ liệu tải về';
 
 // Text
-$_['text_success']      = 'Success: You have modified downloads!';
-$_['text_list']         = 'Download List';
+$_['text_home ']		= 'Trang chủ';
+$_['text_success']      = 'Thành công: Mục tải về đã được thay đổi!';
+$_['text_list']         = 'Danh sách Download';
 $_['text_add']          = 'Add Download';
 $_['text_edit']         = 'Edit Download';
 $_['text_upload']       = 'Your file was successfully uploaded!';

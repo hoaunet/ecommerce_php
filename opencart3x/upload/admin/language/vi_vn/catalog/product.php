@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']          = 'Products';
+$_['heading_title']          = 'Sản phẩm'; 
 
 // Text
-$_['text_success']           = 'Success: You have modified products!';
-$_['text_list']              = 'Product List';
-$_['text_add']               = 'Add Product';
+$_['text_success']           = 'Thành công: Sản phẩm đã được thay đổi!';
+$_['text_list']              = 'Danh sách sản phẩm';
+$_['text_add']               = 'Thêm sản phẩm';
 $_['text_edit']              = 'Edit Product';
 $_['text_filter']            = 'Filter';
 $_['text_plus']              = '+';

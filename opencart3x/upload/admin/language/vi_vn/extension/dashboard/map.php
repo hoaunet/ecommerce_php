@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'World Map';
+$_['heading_title']    = 'Bản đồ thế giới';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard map!';
-$_['text_edit']        = 'Edit Dashboard Map';
-$_['text_order']       = 'Orders';
-$_['text_sale']        = 'Sales';
+$_['text_extension']   = 'Mở rộng';
+$_['text_success']     = 'Thành công: Bạn đã chỉnh sửa bản đồ hoàn tất!';
+$_['text_edit']        = 'Chỉnh sửa bản đổ';
+$_['text_order']       = 'Đơn hàng';
+$_['text_sale']        = 'Kết quả kinh doanh';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'Trạng thái';
+$_['entry_sort_order'] = 'Thứ tự';
 $_['entry_width']      = 'Width';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard map!';
+$_['error_permission'] = 'Cảnh báo: Bạn không có quyền chỉnh sửa phần bản đồ!';

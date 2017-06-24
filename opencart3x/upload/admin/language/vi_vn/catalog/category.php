@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']          = 'Categories';
+$_['heading_title']          = 'Danh mục';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
-$_['text_list']              = 'Category List';
-$_['text_add']               = 'Add Category';
-$_['text_edit']              = 'Edit Category';
+$_['text_success']           = 'Thành công: Danh mục đã được thay đổi!';
+$_['text_list']              = 'Danh sách Danh mục';
+$_['text_add']               = 'Thêm Danh mục';
+$_['text_edit']              = 'Chỉnh sửa Danh mục';
 $_['text_enabled']           = 'Hiển thị';
 $_['text_disabled']          = 'Không Hiển thị';
 
-$_['text_default']           = 'Default';
+$_['text_default']           = 'Mặc định';
 $_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
 $_['text_home']				 = 'Trang chủ';
 $_['text_pagination']		 = 'Phân trang';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Tên Danh mục';
+$_['column_sort_order']      = 'Thứ tự';
+$_['column_action']          = 'Thao tác';
 
 // Entry
-$_['entry_name']             = 'Category Name';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
+$_['entry_name']             = 'Tên Danh mục:';
+$_['entry_description']      = 'Mô tả';
+$_['entry_meta_title'] 	     = 'Tiêu đề Meta Tag';
 $_['entry_meta_keyword']     = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
+$_['entry_keyword']          = 'Từ khóa:';
 $_['entry_parent']           = 'Parent';
 $_['entry_filter']           = 'Filters';
 $_['entry_image']            = 'Image';

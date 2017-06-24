@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'Các đơn hàng gần đây';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified dashboard recent orders!';
-$_['text_edit']         = 'Edit Dashboard Recent Orders';
+$_['text_extension']    = 'Mở rộng';
+$_['text_success']      = 'Thành công: Bạn đã hoàn tất cập nhật các đơn hàng gần đây!';
+$_['text_edit']         = 'Chỉnh sửa các đơn hàng gần đây';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
-$_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_order_id']   = 'Số mã ID đơn hàng';
+$_['column_customer']   = 'Khách hàng';
+$_['column_status']     = 'Trạng thái';
+$_['column_total']      = 'Tổng số';
+$_['column_date_added'] = 'Ngày đặt hàng';
+$_['column_action']     = 'Thao tác';
 
 
 // Entry
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_width']       = 'Width';
+$_['entry_status']     = 'Trạng thái';
+$_['entry_sort_order'] = 'Thứ tự';
+$_['entry_width']      = 'Width';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboard recent orders!';
+$_['error_permission']  = 'Cảnh báo: Bạn không có quyền chỉnh sửa các đơn hàng gần đây!';

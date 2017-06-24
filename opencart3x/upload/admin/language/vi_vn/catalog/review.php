@@ -1,36 +1,39 @@
 <?php
 // Heading
-$_['heading_title']     = 'Reviews';
+$_['heading_title']     = 'Nhận xét';
 
 // Text
-$_['text_success']      = 'Success: You have modified reviews!';
-$_['text_list']         = 'Review List';
-$_['text_add']          = 'Add Review';
-$_['text_edit']         = 'Edit Review';
-$_['text_filter']       = 'Filter';
+$_['text_success']      = 'Thành công: Nhận xét đã được thay đổi!';
+$_['text_list']         = 'Danh sách các nhận xét';
+$_['text_add']          = 'Thêm vào nhận xét';
+$_['text_edit']         = 'Chỉnh sửa nhận xét';
+$_['text_filter']       = 'Lọc';
 
 // Column
-$_['column_product']    = 'Product';
-$_['column_author']     = 'Author';
-$_['column_rating']     = 'Rating';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_product']    = 'Sản phẩm';
+$_['column_author']     = 'Tác giả';
+$_['column_rating']     = 'Đánh giá';
+$_['column_status']     = 'Trạng thái';
+$_['column_date_added'] = 'Ngày tạo';
+$_['column_action']     = 'Thao tác';
 
 // Entry
-$_['entry_product']     = 'Product';
-$_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
-$_['entry_status']      = 'Status';
-$_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_product']     = 'Sản phẩm:';
+$_['entry_author']      = 'Tác giả:';
+$_['entry_rating']      = 'Đánh giá:';
+$_['entry_status']      = 'Trạng thái:';
+$_['entry_text']        = 'Nội dung:';
+$_['entry_good']        = 'Tốt';
+$_['entry_bad']         = 'Kém';
+$_['entry_date_added']  = 'Ngày tạo';
+
 
 // Help
-$_['help_product']      = '(Autocomplete)';
+$_['help_product']      = '(Tự động hoàn thành)';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reviews!';
-$_['error_product']     = 'Product required!';
-$_['error_author']      = 'Author must be between 3 and 64 characters!';
-$_['error_text']        = 'Review Text must be at least 1 character!';
-$_['error_rating']      = 'Review rating required!';
+$_['error_permission']  = 'Cảnh báo: Bạn không được phép thay đổi các nhận xét!';
+$_['error_product']     = 'Sản phẩm phải được chọn!';
+$_['error_author']      = 'Tên Tác giả phải lớn hơn 3 và nhỏ hơn 64 ký tự!';
+$_['error_text']        = 'Nội dung nhận xét phải là ít nhất 1 ký tự!';
+$_['error_rating']      = 'Mục Đánh giá phải được chọn!';

@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']      = 'OpenCart';
+$_['heading_title']      = 'S3S';
 
 // Text
-$_['text_profile']       = 'Your Profile';
-$_['text_store']         = 'Stores';
-$_['text_help']          = 'Help';
-$_['text_homepage']      = 'OpenCart Homepage';
+$_['text_profile']       = 'Tài khoản';
+$_['text_store']         = 'Cửa hàng';
+$_['text_help']          = 'Trợ giúp';
+$_['text_homepage']      = 'Trang chủ';
 $_['text_support']       = 'Support Forum';
 $_['text_documentation'] = 'Documentation';
-$_['text_logout']        = 'Logout';
+$_['text_logout']        = 'Đăng xuất';

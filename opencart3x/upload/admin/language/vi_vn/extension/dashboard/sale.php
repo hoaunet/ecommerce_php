@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total Sales';
+$_['heading_title']    = 'Tổng thể kinh doanh';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard sales!';
-$_['text_edit']        = 'Edit Dashboard Sales';
-$_['text_view']        = 'View more...';
+$_['text_extension']   = 'Mở rộng';
+$_['text_success']     = 'Thành công: Bạn đã chỉnh sửa tổng thể kinh doanh hoàn tất!';
+$_['text_edit']        = 'Cập nhật kinh doanh';
+$_['text_view']        = 'Xem chi tiết...';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'Trạng thái';
+$_['entry_sort_order'] = 'Thứ tự';
 $_['entry_width']      = 'Width';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard sales!';
+$_['error_permission'] = 'Cảnh báo: Bạn không có quyền chỉnh sửa phần tổng thể kinh doanh!';

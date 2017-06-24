@@ -1,19 +1,20 @@
 <?php
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'Thông tin';
 
 // Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
+$_['text_home']				 = 'Trang chủ';
+$_['text_success']           = 'Thành công: Thông tin đã được thay đổi!';
+$_['text_list']              = 'Danh sách thông tin';
+$_['text_add']               = 'Thêm Thông tin';
+$_['text_edit']              = 'Chỉnh sửa thông tin';
+$_['text_default']           = 'Mặc định';
 $_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
 
 // Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_title']      	 = 'Tiêu đề';
+$_['column_sort_order']		 = 'Thứ tự';
+$_['column_action']     	 = 'Thao tác';
 
 // Entry
 $_['entry_title']            = 'Information Title';
@@ -23,13 +24,19 @@ $_['entry_meta_keyword']     = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_store']            = 'Stores';
 $_['entry_keyword']          = 'Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_bottom']           = 'Hiển thị xuống cuối trang';
+$_['entry_status']           = 'Trạng thái';
+$_['entry_sort_order']       = 'Thứ tự:';
+$_['entry_layout']           = 'Bố cục:';
+
+//tab
+$_['tab_general']            = 'Tổng quát';
+$_['tab_data']           	 = 'Chi tiết';
+$_['tab_seo']       		 = 'SEO:';
+$_['tab_design']             = 'Giao diện:';
 
 // Help
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_bottom']            = 'Hiển thị tại Footer.';
 
 // Error
 $_['error_warning']          = 'Warning: Please check the form carefully for errors!';
