@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Chương trình đại lý';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Tài khoản';
+$_['text_login']                    = 'Đăng nhập';
+$_['text_description']              = '<p>%s chương trình đại lý hoàn toàn miễn phí và cho phép thành viên nhận hoa hồng khi đặt liên kết hoặc liên kết trang web quảng cáo sản phẩm nào đó. Bất kì giao dịch mua sản phẩm phát sinh từ liên kết sẽ nhận được phần trăm hoa hồng. Tỉ lệ hoa hồng hiện tại là %s.</p><p>Vui lòng xem trang FAQ để xem chính sách đại lý &amp; điều khoản.</p>';
+$_['text_new_affiliate']            = 'Đại lý mới';
+$_['text_register_account']         = '<p>Tôi không phải là đại lý.</p><p>Bấm tiếp tục bên dưới để tạo mới tài khoản đại lý. Lưu ý nó không kết nối với tài khoản khách hàng của bạn trên gian hàng.</p>';
+$_['text_returning_affiliate']      = 'Đại lý quảng cáo đăng nhập';
+$_['text_i_am_returning_affiliate'] = 'Tôi đã là đại lý.';
+$_['text_forgotten']                = 'Quên mật khẩu';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'E-Mail đại lý:';
+$_['entry_password']                = 'Mật khẩu';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
+$_['error_login']                   = 'Lỗi: Email hoặc Mật Khẩu không chính xác.';
 $_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
 $_['error_approved']                = 'Warning: Your account requires approval before you can login.';

@@ -1,27 +1,28 @@
 <?php
 // Heading
-$_['heading_title']                  = 'Checkout';
+$_['heading_title']                  = 'Thanh Toán';
 
 // Text
-$_['text_cart']                      = 'Shopping Cart';
-$_['text_checkout_option']           = 'Step %s: Checkout Options';
-$_['text_checkout_account']          = 'Step %s: Account &amp; Billing Details';
-$_['text_checkout_payment_address']  = 'Step %s: Billing Details';
-$_['text_checkout_shipping_address'] = 'Step %s: Delivery Details';
-$_['text_checkout_shipping_method']  = 'Step %s: Delivery Method';
-$_['text_checkout_payment_method']   = 'Step %s: Payment Method';
-$_['text_checkout_confirm']          = 'Step %s: Confirm Order';
-$_['text_modify']                    = 'Modify &raquo;';
-$_['text_new_customer']              = 'New Customer';
-$_['text_returning_customer']        = 'Returning Customer';
-$_['text_checkout']                  = 'Checkout Options:';
-$_['text_i_am_returning_customer']   = 'I am a returning customer';
-$_['text_register']                  = 'Register Account';
-$_['text_guest']                     = 'Guest Checkout';
-$_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_forgotten']                 = 'Forgotten Password';
+$_['text_cart']                      = 'Giỏ Hàng';
+$_['text_checkout_option']           = 'Bước %s: Tùy Chọn Thanh Toán';
+$_['text_checkout_account']          = 'Bước %s: Tài Khoản &amp; Chi Tiết Thanh Toán';
+$_['text_checkout_payment_address']  = 'Bước %s: Địa chỉ Thanh Toán';
+$_['text_checkout_shipping_address'] = 'Bước %s: Địa chỉ Giao Hàng';
+$_['text_checkout_shipping_method']  = 'Bước %s: Phương Thức Giao Hàng';
+$_['text_checkout_payment_method']   = 'Bước %s: Phương Thức Thanh Toán';
+$_['text_checkout_confirm']          = 'Bước %s: Xác Nhận Đơn Hàng';
+
+$_['text_modify']                    = 'Thay Đổi &raquo;';
+$_['text_new_customer']              = 'Khách Hàng Mới';
+$_['text_returning_customer']        = 'Khách Hàng Cũ';
+$_['text_checkout']                  = 'Tùy Chọn Thanh Toán:';
+$_['text_i_am_returning_customer']   = 'Tôi là khách hàng cũ';
+$_['text_register']                  = 'Đăng kí tài khoản';
+$_['text_guest']                     = 'Khách Thanh Toán';
+$_['text_register_account']          = 'Bằng việc tạo tài khoản bạn có thể mua sắm nhanh hơn, theo dõi trạng thái đơn hàng, và theo dõi đơn hàng mà bạn đã đặt.';
+$_['text_forgotten']                 = 'Quên Mật Khẩu';
 $_['text_your_details']              = 'Your Personal Details';
-$_['text_your_address']              = 'Your Address';
+$_['text_your_address']              = 'Địa Chỉ';
 $_['text_your_password']             = 'Your Password';
 $_['text_agree']                     = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'I want to use a new address';

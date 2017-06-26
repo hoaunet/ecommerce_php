@@ -9,7 +9,7 @@ $_['text_confirm_cancel'] 					= 'Bạn chắc chắn hủy hồ sơ này?';
 $_['text_empty_transactions'] 				= 'Không có giao dịch nào trong hồ sơ này!';
 $_['text_account']                         = 'Tài khoản';
 $_['text_recurring']                       = 'Thanh toán Định kỳ';
-$_['text_recurring_detail']                = 'Recurring Payment Details';
+$_['text_recurring_detail']                = 'Chi tiết Thanh toán Định kỳ';
 
 $_['text_order_recurring_id']              = 'Mã định kỳ:';
 $_['text_date_added']                      = 'Đã tạo: ';

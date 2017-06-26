@@ -3,11 +3,11 @@
 $_['heading_title']         = 'Lịch Sử Đơn Hàng';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
+$_['text_account']          = 'Tài khoản';
+$_['text_order']            = 'Thông tin đơn hàng';
+$_['text_order_detail']     = 'Chi tiết đơn hàng';
+$_['text_invoice_no']       = 'Số hóa đơn:';
+$_['text_order_id']         = 'Mã đơn hàng:';
 $_['text_date_added']       = 'Ngày tạo:';
 $_['text_shipping_address'] = 'Địa chỉ giao hàng';
 $_['text_shipping_method']  = 'Phương thức vận chuyển:';

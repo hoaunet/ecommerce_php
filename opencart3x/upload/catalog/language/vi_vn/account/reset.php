@@ -5,7 +5,7 @@ $_['heading_title']  = 'Thiết lập lại mật khẩu';
 // Text
 $_['text_account']   = 'Tài khoản';
 $_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_success']   = 'Thành công: Bạn đã cập nah65t mật khẩu thành công.';
 
 // Entry
 $_['entry_password'] = 'Mật khẩu';

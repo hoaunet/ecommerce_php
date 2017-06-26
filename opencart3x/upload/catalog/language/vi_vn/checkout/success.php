@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Đơn Hàng Của Bạn Đã Được Xử Lý!';
 
 // Text
 $_['text_basket']          = 'Shopping Cart';
